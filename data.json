@@ -1,0 +1,57 @@
+{
+    "Tidak pakai foto": [
+      {
+        "nama": "DESIGN 1",
+        "size": "hp & laptop",
+        "harga": "45.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "DESIGN 2",
+        "size": "hp & laptop",
+        "harga": "45.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "DESIGN 3",
+        "size": "hp & laptop",
+        "harga": "45.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      }
+    ],
+    "pakai foto": [
+      {
+        "nama": "PREMIUM 1",
+        "size": "hp & laptop",
+        "harga": "60.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "PREMIUM 2",
+        "size": "hp & laptop",
+        "harga": "60.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "PREMIUM 3",
+        "size": "hp & laptop",
+        "harga": "60.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      }
+    ],
+    "custom": [
+      {
+        "nama": "CUSTOM 1",
+        "size": "hp & laptop",
+        "harga": "100.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      }
+    ]
+  }
